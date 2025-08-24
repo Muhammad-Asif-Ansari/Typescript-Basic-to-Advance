@@ -4,6 +4,13 @@ var num2:number = 20;
 var totalValue = num1+num2;
 console.log(totalValue)
 
+var num1:number = 10;
+var num2:number = 20;
+
+var totalValue = num1+num2;
+console.log(totalValue)
+
+
 
 var oct:number=0o100001; //octal value
 console.log(oct + 20);
