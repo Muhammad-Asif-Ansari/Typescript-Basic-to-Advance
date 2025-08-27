@@ -1,10 +1,16 @@
+"use strict";
+Object.defineProperty(exports, "__esModule", { value: true });
 var num1 = 10;
 var num2 = 20;
 var totalValue = num1 + num2;
 console.log(totalValue);
-var oct = 32769; //octal value
+var num1 = 10;
+var num2 = 20;
+var totalValue = num1 + num2;
+console.log(totalValue);
+var oct = 0o100001; //octal value
 console.log(oct + 20);
-var hexa = 1; //hexa value
+var hexa = 0b00001; //hexa value
 console.log(hexa - 10);
 var binary = 0x00001; //binary value
 console.log(binary * 3);
