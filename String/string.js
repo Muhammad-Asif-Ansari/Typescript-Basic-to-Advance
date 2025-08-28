@@ -1,5 +1,3 @@
-"use strict";
-Object.defineProperty(exports, "__esModule", { value: true });
 var myName = "Muhammad Asif Ansari";
 var hello = `how are you?`;
 var age = 20;
