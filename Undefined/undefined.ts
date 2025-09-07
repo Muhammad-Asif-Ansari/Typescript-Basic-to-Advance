@@ -59,3 +59,13 @@ const newUser: User = {
 console.log(createUser(newUser));
 
 
+let age: number | undefined;
+
+if (age === undefined) {
+  console.log("Age is not defined");
+} else {
+  console.log("Age:", age);
+}
+
+
+
